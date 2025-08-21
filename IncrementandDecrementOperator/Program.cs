@@ -41,6 +41,7 @@ namespace IncrementandDecrementOperator
             Console.WriteLine("value of a is {0}", a);
             Console.WriteLine("while pre incrementing the value {0}", ++a);//
             Console.WriteLine("while after pre incrementing {0}", a);
+            Console.WriteLine("Made changes");
 
 
             Console.WriteLine("enter a value");
